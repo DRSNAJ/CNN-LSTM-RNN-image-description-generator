@@ -1,4 +1,4 @@
-# Image Caption Generator
+# CNN-LSTM RNN Image Description Genertor
 
 ## Introduction
 
