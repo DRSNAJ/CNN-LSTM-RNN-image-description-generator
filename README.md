@@ -1,4 +1,4 @@
-# CNN-LSTM RNN Image Description Genertor
+# CNN-LSTM RNN Image Description Generator
 
 ## Introduction
 
